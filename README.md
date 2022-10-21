@@ -28,6 +28,22 @@ MongoDB Atlas has been used as a database.
 ---
 ### To test the API : 
 
+npm init -y
+
+Download these npm packages : body-parser, express, nodemon, morgan, mongoose using <br>
+npm install 
+
+Run the server using 'nodemon server.js'
+
+Test the API using Postman tool
+
+---
+
+Postman Collection link with all the routes: 
+https://www.getpostman.com/collections/164954ff9579409c64da
+
+
+
 
 
     
